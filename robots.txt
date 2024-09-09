@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://khauzd.github.io/wOC/sitemap.wOC.gz
